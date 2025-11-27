@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hey, I'm Samik
 
-<!--
-**samik009b/samik009b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build things that are fast, clean, and actually maintainable.  
+Focused on backend architectures with a touch of DevOps and agentic AI, pushing my technical ceiling.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Work With
+* **Languages:** TypeScript, JavaScript, Python, Java
+* **Backend:** Node.js, Express, REST APIs, Auth, RabbitMQ
+* **Frontend:** HTML, CSS, Bootstrap 5, React (basic)  
+* **Databases:** MongoDB, Redis  
+* **Tools:** Docker, Git, Linux, Winston, Swagger
+* **Other Interests:** distributed systems, Bash Scripting
+
+---
+
+## 📌 Current Focus
+- Building scalable backend services  
+- Improving architecture & debugging discipline  
+- Learning deeper internals (protocols, OS concepts, networking)
+
+---
+
+## 🛠️ Featured Projects
+- **Micro-Blogging-API** – API designed for a social media application.
+- **OMS** – An event driven order management systems which forced me to learn async tasks in Node JS.  
+- **Ekart.org** – Ongoing experimental project to learn about microservices in Node JS.
+
+---
+
+## 📈 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Samik009b&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samik009b&layout=compact&theme=transparent)
+
+---
+
+## 📬 Connect
+- Email:  samikb2024@gmail.com
+- LinkedIn:  https://www.linkedin.com/in/samik-biswas-943805320/
+- Portfolio:  https://samik-portfolio.vercel.app/
+
+---
+
+Consistent improvement matters more than volume.  
+The repo list below is just the surface.
