@@ -1,17 +1,17 @@
 # 👋 Hey, I'm Samik
 
-I build things that are fast, clean, and actually maintainable.  
-Focused on backend architectures with a touch of DevOps and agentic AI, pushing my technical ceiling.
+I build things.  
+Focused on backend architectures with a touch of DevOps and agentic AI.
 
 ---
 
 ## 🚀 What I Work With
 * **Languages:** TypeScript, JavaScript, Python, Java, Golang, C, C++
 * **Backend:** Node.js, Express, REST APIs, Auth, RabbitMQ
-* **Frontend:** HTML, CSS, Bootstrap 5, React (basic)  
-* **Databases:** MongoDB, Redis  
+* **Frontend:** HTML, CSS, Bootstrap 5, React (basic)
+* **Databases:** MongoDB, Redis
 * **Tools:** Docker, Git, Linux, Winston, Swagger, Wireshark, GROQ API, OpenAI API
-* **Other:** 3rd party API Integration, CI, Microservices, Monorepo
+* **Other:** 3rd party API Integration, CI, Microservices, Monorepo, REST API
 * **Other Interests:** distributed systems, Bash Scripting, Computer Networks
 
 ---
