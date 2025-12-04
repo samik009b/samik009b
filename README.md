@@ -6,12 +6,13 @@ Focused on backend architectures with a touch of DevOps and agentic AI, pushing 
 ---
 
 ## 🚀 What I Work With
-* **Languages:** TypeScript, JavaScript, Python, Java
+* **Languages:** TypeScript, JavaScript, Python, Java, Golang, C, C++
 * **Backend:** Node.js, Express, REST APIs, Auth, RabbitMQ
 * **Frontend:** HTML, CSS, Bootstrap 5, React (basic)  
 * **Databases:** MongoDB, Redis  
-* **Tools:** Docker, Git, Linux, Winston, Swagger
-* **Other Interests:** distributed systems, Bash Scripting
+* **Tools:** Docker, Git, Linux, Winston, Swagger, Wireshark, GROQ API, OpenAI API
+* **Other:** 3rd party API Integration, CI, Microservices, Monorepo
+* **Other Interests:** distributed systems, Bash Scripting, Computer Networks
 
 ---
 
@@ -25,7 +26,7 @@ Focused on backend architectures with a touch of DevOps and agentic AI, pushing 
 ## 🛠️ Featured Projects
 - **Micro-Blogging-API** – API designed for a social media application.
 - **OMS** – An event driven order management systems which forced me to learn async tasks in Node JS.  
-- **Ekart.org** – Ongoing experimental project to learn about microservices in Node JS.
+- **Ekart.org** – Ongoing experimental project to learn about microservices in Node JS with gRPC for communication between different services.
 
 ---
 
@@ -39,8 +40,3 @@ Focused on backend architectures with a touch of DevOps and agentic AI, pushing 
 - Email:  samikb2024@gmail.com
 - LinkedIn:  https://www.linkedin.com/in/samik-biswas-943805320/
 - Portfolio:  https://samik-portfolio.vercel.app/
-
----
-
-Consistent improvement matters more than volume.  
-The repo list below is just the surface.
